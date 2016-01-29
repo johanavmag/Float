@@ -1,0 +1,32 @@
+div>div{
+	background-image: url("http://us.123rf.com/450wm/julietphotography/julietphotography1203/julietphotography120300016/12957658-polka-dots,-seamless-pattern,-grey,-mixed-pink.jpg");
+	height: 100px;
+	width: 25%;
+	margin:1px;
+	float:right;
+}
+.segundo {
+	width:800px;
+	margin-top: 20px;
+	border:1px solid gray;
+
+}
+.clearfix:before, .clearfix:after{
+	content:"";
+	display:table;
+}
+.clearfix:after{
+	clear:both;
+}
+.rosa{
+	background:#ff4da6;
+	
+}
+.morado {
+	background:#cc66ff;
+	
+}
+.azul {
+	background:#1ad1ff;
+	
+}
